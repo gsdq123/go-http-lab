@@ -1,7 +1,5 @@
 # Go HTTP Lab
 
-Go HTTP 框架对照实验室
-
 这是一个用于系统学习 Go Web/HTTP 开发的个人实践项目。
 
 项目把同一组 HTTP 场景分别用 `net/http`、Chi、Gin、Echo、Fiber 和 Mizu 实现，通过可运行的小程序对比不同框架在路由、上下文、中间件、错误处理、响应输出、生命周期管理等方面的设计差异。
